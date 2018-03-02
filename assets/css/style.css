@@ -1,4 +1,30 @@
-h1 {background: black;
-color: red;
-text-align: center;
-padding: 10px;}
+#jumbotron {background: black}
+
+#title {color: red;}
+
+* {
+	box-sizing: border-box;
+}
+
+#myButtons {text-align: center;}
+
+img { 
+    height: 150px;
+    width: 150px;
+}
+.btn {
+    /* adding spacing between each button*/
+    margin: 3px;
+    background-color:red;
+    border-color: black;
+}
+.gifDiv{
+    /* making the images go in one line rather than block & adding spacing between the images*/
+    float: left;
+    margin: 3px;
+}
+
+#copyright{
+	font-size: 14px;
+}
+
