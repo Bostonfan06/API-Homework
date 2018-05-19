@@ -1,8 +1,15 @@
-# API-Homework
+# Gif Tastic
 
--I created an array of animals that are displayed up top. You can click on one of those buttons to display 10 different gifs.
+#### In this assignment, we had to use the GIPHY API to make a dynamic web page that populates with a gifs of our choice. I chose to go with a Animal Theme. We had to make a call using the technologies below:
 
--You can also add your own animal by entering a new animal in the input box, then submit it. Once submitted, it will add a new button to the top of page. Click that button to display your current results.
+* HTML
+* CSS
+* GIPHY API
+* Javascript
+* jQuery
 
--Click on the any Giphy to see it in action. If you want the giphy to stop, click on it again. Hope you enjoy the project. It was a challenge.
+*Click the link below for a demo*
+
+[DEMO](https://bostonfan06.github.io/API-Homework/)
+
 

@@ -1,4 +1,10 @@
-#jumbotron {background: black}
+body {
+    background-image:url("../images/lion.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center
+}
 
 #title {color: red;}
 
