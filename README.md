@@ -7,9 +7,10 @@
 * GIPHY API
 * Javascript
 * jQuery
+* Ajax
 
 *Click the link below for a demo*
 
-[DEMO](https://bostonfan06.github.io/API-Homework/)
+
 
 
