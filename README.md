@@ -1,6 +1,8 @@
 # Gif Tastic
 
-#### In this assignment, we had to use the GIPHY API to make a dynamic web page that populates with a gifs of our choice. I chose to go with a Animal Theme. We had to make a call using the technologies below:
+In this class assignment, we had to use the GIPHY API to make a dynamic web page that populates with a gifs of our choice. I chose to go with an Animal Theme. We had to make a call using the technologies below:
+
+## Built With
 
 * HTML
 * CSS
@@ -9,8 +11,8 @@
 * jQuery
 * Ajax
 
-*Click the link below for a demo*
+### Click on the Link below for demonstration:
 
-[DEMO](https://bostonfan06.github.io/API-Homework/)
+[Gif Tastic App](https://bostonfan06.github.io/API-Homework/)
 
 
